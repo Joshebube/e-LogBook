@@ -69,7 +69,7 @@
 
                 <p>This is a template for a simple marketing or informational website. it includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique</p>
 
-                <p><a class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+                <p><a href="registration_form.php" class="btn btn-primary btn-lg">Register Now &raquo;</a></p>
             </div>
         </div>
 
