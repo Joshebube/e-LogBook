@@ -50,5 +50,5 @@
                     
                 </div>
             </div>
-
+             <hr>
            <?php require_once __DIR__ . "/footer.php"; ?>
